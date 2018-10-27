@@ -1,0 +1,10 @@
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\SpotifyTimer\SpotifyTimer\bin\Debug\SpotifyTimer.exe.config
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\SpotifyTimer\SpotifyTimer\bin\Debug\SpotifyTimer.exe
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\SpotifyTimer\SpotifyTimer\bin\Debug\SpotifyTimer.pdb
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\SpotifyTimer\SpotifyTimer\obj\Debug\SpotifyTimer.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\SpotifyTimer\SpotifyTimer\obj\Debug\SpotifyTimer.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\SpotifyTimer\SpotifyTimer\obj\Debug\SpotifyTimer.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\SpotifyTimer\SpotifyTimer\obj\Debug\SpotifyTimer.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\SpotifyTimer\SpotifyTimer\obj\Debug\SpotifyTimer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\SpotifyTimer\SpotifyTimer\obj\Debug\SpotifyTimer.exe
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\SpotifyTimer\SpotifyTimer\obj\Debug\SpotifyTimer.pdb
